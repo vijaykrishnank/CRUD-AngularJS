@@ -1,4 +1,4 @@
-{ "EmployeeData": [{
+[{
     "employee": "Victoria Cantrell",
     "approvedby": "Clay Jenson",
     "department": "Sales",
@@ -63,4 +63,4 @@
     "submittedby": "Gareth Bale"
   },
 ];
-}
+
